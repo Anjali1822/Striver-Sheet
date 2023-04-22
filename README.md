@@ -1,4 +1,4 @@
-##Striver SDE Sheet Interview Preparation Guide
+#Striver SDE Sheet Interview Preparation Guide
 
 
 This repository contains the solutions to the Striver SDE Sheet Interview Preparation Guide, which is a comprehensive guide to prepare for technical interviews.
